@@ -21,6 +21,14 @@ Ten years of building software for real users, and running the projects around i
       <sub><a href="https://keepresso.com">keepresso.com</a> · <a href="https://github.com/gyorgysh/keepresso">source</a> · <code>brew install --cask gyorgysh/keepresso/keepresso</code></sub>
     </td>
   </tr>
+  <tr>
+    <td width="76" valign="top"><a href="https://openradview.com"><img src="https://openradview.com/assets/favicon/icon-192.png" width="56" height="56" alt="OpenRadView"></a></td>
+    <td valign="top">
+      <b><a href="https://openradview.com">OpenRadView</a></b><br>
+      A free viewer for opening and exploring your own CT, MRI and X-ray images (DICOM and NIfTI) on your computer, for personal education. Linked axial, coronal and sagittal views, window and level, all local. Not clinically validated, so leave the reading to a clinician.<br>
+      <sub><a href="https://openradview.com">openradview.com</a> · <a href="https://github.com/gyorgysh/openradview">source</a></sub>
+    </td>
+  </tr>
 </table>
 
 #### My AI usage
